@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ujjwaldotverma
-- 👀 I’m interested in Data Science and Analytics
+- 👀 I’m interested in Software Development and Analytics
 - 🌱 I’m currently learning Machine Learning and Web Development.
 - 💞️ I’m looking to collaborate on Open Source Projects and Developments.
 - 📫 How to reach me https://www.linkedin.com/in/ujjwal-verma-596336221/
